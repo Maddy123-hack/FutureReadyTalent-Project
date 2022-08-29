@@ -63,5 +63,5 @@
     Upon clicking on Contact the page remains static<br/>
    </p> 
     <p>
-    The link for the website is:
+    The link for the website is:https://ambitious-field-02d04df10.1.azurestaticapps.net/
 </p>
