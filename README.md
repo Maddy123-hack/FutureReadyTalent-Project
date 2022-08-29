@@ -27,11 +27,13 @@
     <p>About Me button redirects to About Page</p>
   The About page has Navbar includes Title along side four options Home, About, Services and Contact
   <br/>  <h4>Navbar Functioning</h4><br/>
+  <p>
     Upon clicking on Home the page redirected to the Landing Home Page<br/>
     Upon clicking on About the page remains static<br/>
     Upon clicking on Services the page redirected to the Services Page<br/>
     Upon clicking on Contact the page redirected to the Contact Page<br/>
-<img width="945" alt="image" src="https://user-images.githubusercontent.com/56785712/187166466-ded41cb3-ab41-4ec6-ac00-deffcbbe6da4.png">
+  </p>
+  <img width="945" alt="image" src="https://user-images.githubusercontent.com/56785712/187166466-ded41cb3-ab41-4ec6-ac00-deffcbbe6da4.png">
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/56785712/187166569-34d249f1-2996-4e72-9ff6-1f79123ebcfb.png">
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/56785712/187166640-93112735-3346-4f1d-b918-b33fbd352fbb.png">
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/56785712/187166823-d5a8042d-af8f-40b8-bc4d-8e1bd9348b18.png">
@@ -43,20 +45,23 @@
 <img width="942" alt="image" src="https://user-images.githubusercontent.com/56785712/187166966-dcac3837-ab9f-495d-a6b9-5f9099bb549a.png">
   <p>Page includes the details of Skills and Experience
   <br/><h4>Navbar Functioning</h4><br/>
+  <p>
   Upon clicking on Home the page redirected to the Landing Home Page<br/>
     Upon clicking on About the page redirected to the About Page<br/>
     Upon clicking on Services the page remains static<br/>
     Upon clicking on Contact the page redirected to the Contact Page<br/>
+</p>
 <h2>Contact Page</h2>
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/56785712/187167046-841dec05-dd0b-4b8b-a531-0cd380500445.png">
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/56785712/187167124-ce6da4e8-668a-41a4-930f-9b2d09e6006c.png">
-
+<p>
   The Contact Page includes the form to send any message to me along side with my address. It include the Mal Location that is displayed in Map.
   Upon clicking on Home the page redirected to the Landing Home Page<br/>
     <br/><h4>Navbar Functioning</h4>
     Upon clicking on About the page redirected to the About Page<br/>
     Upon clicking on Services the page redirected to the Services Page<br/>
     Upon clicking on Contact the page remains static<br/>
-    
-    
+   </p> 
+    <p>
     The link for the website is:
+</p>
